@@ -1,6 +1,6 @@
 /*==============================================================*/
 /* DBMS name:      MySQL 5.0                                    */
-/* Created on:     21/09/2021 0:15:48                           */
+/* Created on:     21/09/2021 20:06:23                          */
 /*==============================================================*/
 
 
@@ -79,6 +79,7 @@ create table PRODUCTO
    MATERIAL             varchar(15) not null,
    PRECIO_COMPRA        numeric(10,2) not null,
    PRECIO_VENTA         numeric(10,2) not null,
+   ESTADO               varchar(20) not null,
    primary key (CODIGO)
 );
 
@@ -93,6 +94,7 @@ create table VENTA
    VALOR_TOTAL          numeric(10,2) not null,
    MEDIO_PAGO           varchar(20) not null,
    GANANCIA             numeric(10,2) not null,
+   ESTADO               varchar(15) not null,
    primary key (NUMERO)
 );
 
@@ -113,3 +115,5 @@ alter table VENTA add constraint FK_CLIENTE_VENTA foreign key (IDENTIFICACION)
 
 ALTER TABLE VENTAS ADD CHECK (MEDIO_PAGO IN ('EFECTIVO', 'TARJETA_CREDITO', 'TARJETA_DEBITO'));
 ALTER TABLE PRODUCTO ADD CHECK (TALLA IN ('UNICA', '3', '4', '4.5', '5', '5.5', '6', '6.5', '7', '8', '9', '10', '11', '12', '13'));
+ALTER TABLE PRODCUTO ADD CHECK (ESTADO IN ('ACTIVO','DESCONTINUADO'));
+ALTER TABLE VENTA ADD CHECK (ESTADO IN ('PAGADO','ACTIVO', 'CANCELADO'));
