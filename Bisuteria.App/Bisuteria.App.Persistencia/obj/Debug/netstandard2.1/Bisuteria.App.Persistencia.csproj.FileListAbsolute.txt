@@ -1,0 +1,11 @@
+C:\Users\luisy\Desktop\SEMESTRE X\MINTIC\CICLO 3\github\bisuteria\Bisuteria.App\Bisuteria.App.Persistencia\bin\Debug\netstandard2.1\Bisuteria.App.Persistencia.deps.json
+C:\Users\luisy\Desktop\SEMESTRE X\MINTIC\CICLO 3\github\bisuteria\Bisuteria.App\Bisuteria.App.Persistencia\bin\Debug\netstandard2.1\Bisuteria.App.Persistencia.dll
+C:\Users\luisy\Desktop\SEMESTRE X\MINTIC\CICLO 3\github\bisuteria\Bisuteria.App\Bisuteria.App.Persistencia\bin\Debug\netstandard2.1\Bisuteria.App.Persistencia.pdb
+C:\Users\luisy\Desktop\SEMESTRE X\MINTIC\CICLO 3\github\bisuteria\Bisuteria.App\Bisuteria.App.Persistencia\bin\Debug\netstandard2.1\Bisuteria.App.Dominio.dll
+C:\Users\luisy\Desktop\SEMESTRE X\MINTIC\CICLO 3\github\bisuteria\Bisuteria.App\Bisuteria.App.Persistencia\bin\Debug\netstandard2.1\Bisuteria.App.Dominio.pdb
+C:\Users\luisy\Desktop\SEMESTRE X\MINTIC\CICLO 3\github\bisuteria\Bisuteria.App\Bisuteria.App.Persistencia\obj\Debug\netstandard2.1\Bisuteria.App.Persistencia.csprojAssemblyReference.cache
+C:\Users\luisy\Desktop\SEMESTRE X\MINTIC\CICLO 3\github\bisuteria\Bisuteria.App\Bisuteria.App.Persistencia\obj\Debug\netstandard2.1\Bisuteria.App.Persistencia.AssemblyInfoInputs.cache
+C:\Users\luisy\Desktop\SEMESTRE X\MINTIC\CICLO 3\github\bisuteria\Bisuteria.App\Bisuteria.App.Persistencia\obj\Debug\netstandard2.1\Bisuteria.App.Persistencia.AssemblyInfo.cs
+C:\Users\luisy\Desktop\SEMESTRE X\MINTIC\CICLO 3\github\bisuteria\Bisuteria.App\Bisuteria.App.Persistencia\obj\Debug\netstandard2.1\Bisuteria.App.Persistencia.csproj.CopyComplete
+C:\Users\luisy\Desktop\SEMESTRE X\MINTIC\CICLO 3\github\bisuteria\Bisuteria.App\Bisuteria.App.Persistencia\obj\Debug\netstandard2.1\Bisuteria.App.Persistencia.dll
+C:\Users\luisy\Desktop\SEMESTRE X\MINTIC\CICLO 3\github\bisuteria\Bisuteria.App\Bisuteria.App.Persistencia\obj\Debug\netstandard2.1\Bisuteria.App.Persistencia.pdb
