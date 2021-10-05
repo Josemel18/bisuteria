@@ -2,7 +2,7 @@ namespace Bisuteria.App.Dominio.Entidades
 {
     public class Material
     {
-        public String material {get;set;}
-        public String descripcion {get;set;}
+        public string material {get;set;}
+        public string descripcion {get;set;}
     }
 }

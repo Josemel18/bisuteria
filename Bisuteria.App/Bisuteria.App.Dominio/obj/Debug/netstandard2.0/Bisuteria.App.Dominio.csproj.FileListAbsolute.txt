@@ -1,0 +1,8 @@
+C:\Users\luisy\Desktop\SEMESTRE X\MINTIC\CICLO 3\github\bisuteria\Bisuteria.App\Bisuteria.App.Dominio\obj\Debug\netstandard2.0\Bisuteria.App.Dominio.csprojAssemblyReference.cache
+C:\Users\luisy\Desktop\SEMESTRE X\MINTIC\CICLO 3\github\bisuteria\Bisuteria.App\Bisuteria.App.Dominio\obj\Debug\netstandard2.0\Bisuteria.App.Dominio.AssemblyInfoInputs.cache
+C:\Users\luisy\Desktop\SEMESTRE X\MINTIC\CICLO 3\github\bisuteria\Bisuteria.App\Bisuteria.App.Dominio\obj\Debug\netstandard2.0\Bisuteria.App.Dominio.AssemblyInfo.cs
+C:\Users\luisy\Desktop\SEMESTRE X\MINTIC\CICLO 3\github\bisuteria\Bisuteria.App\Bisuteria.App.Dominio\bin\Debug\netstandard2.0\Bisuteria.App.Dominio.deps.json
+C:\Users\luisy\Desktop\SEMESTRE X\MINTIC\CICLO 3\github\bisuteria\Bisuteria.App\Bisuteria.App.Dominio\bin\Debug\netstandard2.0\Bisuteria.App.Dominio.dll
+C:\Users\luisy\Desktop\SEMESTRE X\MINTIC\CICLO 3\github\bisuteria\Bisuteria.App\Bisuteria.App.Dominio\bin\Debug\netstandard2.0\Bisuteria.App.Dominio.pdb
+C:\Users\luisy\Desktop\SEMESTRE X\MINTIC\CICLO 3\github\bisuteria\Bisuteria.App\Bisuteria.App.Dominio\obj\Debug\netstandard2.0\Bisuteria.App.Dominio.dll
+C:\Users\luisy\Desktop\SEMESTRE X\MINTIC\CICLO 3\github\bisuteria\Bisuteria.App\Bisuteria.App.Dominio\obj\Debug\netstandard2.0\Bisuteria.App.Dominio.pdb
