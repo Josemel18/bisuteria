@@ -8,7 +8,7 @@ using Bisuteria.App.Dominio.Entidades;
         public DbSet<Venta> Ventas { get; set; }
         public DbSet<Item> Items { get; set; }
         public DbSet<Producto> Productos { get; set; }
-        public DbSet<Material> Categorias { get; set; }
+        public DbSet<Material> Materiales { get; set; }
         public DbSet<Categoria> Categorias { get; set; }
 
 
