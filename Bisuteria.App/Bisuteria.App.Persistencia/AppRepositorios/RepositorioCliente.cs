@@ -30,6 +30,7 @@ namespace Bisuteria.App.Persistencia
             {
                 ClienteEncontrado.identificacion = cliente.identificacion;
                 ClienteEncontrado.nombre1         = cliente.nombre1;
+                //posterior cambio agregando cada atributo
                _appContext.SaveChanges();
             }
             return ClienteEncontrado;
