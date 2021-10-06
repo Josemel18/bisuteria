@@ -33,3 +33,4 @@ C:\Users\luisy\Desktop\SEMESTRE X\MINTIC\CICLO 3\github\bisuteria\Bisuteria.App\
 C:\Users\luisy\Desktop\SEMESTRE X\MINTIC\CICLO 3\github\bisuteria\Bisuteria.App\Bisuteria.App.Presentacion\obj\Debug\netcoreapp3.1\Bisuteria.App.Presentacion.dll
 C:\Users\luisy\Desktop\SEMESTRE X\MINTIC\CICLO 3\github\bisuteria\Bisuteria.App\Bisuteria.App.Presentacion\obj\Debug\netcoreapp3.1\Bisuteria.App.Presentacion.pdb
 C:\Users\luisy\Desktop\SEMESTRE X\MINTIC\CICLO 3\github\bisuteria\Bisuteria.App\Bisuteria.App.Presentacion\obj\Debug\netcoreapp3.1\Bisuteria.App.Presentacion.csproj.CopyComplete
+C:\Users\luisy\Desktop\SEMESTRE X\MINTIC\CICLO 3\github\bisuteria\Bisuteria.App\Bisuteria.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Clientes\Lista.cshtml.g.cs
