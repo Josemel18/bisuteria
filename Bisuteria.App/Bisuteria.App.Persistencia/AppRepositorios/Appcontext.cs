@@ -1,6 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using Bisuteria.App.Dominio.Entidades;
-namespace Bisuteria.App.Persistencia
+namespace Bisuteria.App.Persistencia
 {
     public class AppContext : DbContext
     {
@@ -17,7 +17,7 @@ using Bisuteria.App.Dominio.Entidades;
 
 
 
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+       protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             if (!optionsBuilder.IsConfigured)
             {
@@ -25,6 +25,6 @@ using Bisuteria.App.Dominio.Entidades;
                .UseSqlServer("Data Source = (localdb)\\MSSQLLocalDB; Initial Catalog =ProyectoG58");
             }
         }
-    }
+    }
 }
 
