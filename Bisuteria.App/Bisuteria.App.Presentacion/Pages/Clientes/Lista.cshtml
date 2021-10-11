@@ -5,3 +5,32 @@
     <h1>LISTAR - NUEVO - EDITAR - ACTUALIZAR - ELIMINAR</h1>
 
 }
+
+<h1>Listado de Clientes</h1>
+<table class="table">
+    @foreach (var cliente in Model.clientes)
+    {
+        <tr>
+           
+            <td>@cliente.identificacion</td>
+            <td>@cliente.nombre1</td>
+            <td>
+                <a class="btn btn-primary table-btn" asp-page="./List" asp-route-formadorId="@cliente.identificacion">
+                  <i class="fas fa-info-circle fa-lg"></i>Detalle 
+                </a>
+            </td>
+            <td>
+                <a class="btn btn-primary table-btn" asp-page="./List" asp-route-formadorId="@cliente.identificacion">
+                  <i class="fas fa-address-book fa-lg" aria-hidden="true">Editar</i>
+                </a>
+            </td>
+            <td>
+                <a class="btn btn-danger table-btn" asp-page="./List" asp-route-formadorId="@cliente.identificacion">
+                  <i class="fas fa-address-book fa-lg" aria-hidden="true">Eliminar</i>
+                </a>
+            </td>  
+        </tr>
+    }
+</table>
+<a asp-page=".\List" class="btn btn-primary">Adicionar un Formador</a>
+

@@ -2,6 +2,7 @@ namespace Bisuteria.App.Dominio.Entidades
 {
     public class Cliente
     {
+        public int id{get;set;}
         public string identificacion { get; set; }
         public string nombre1 { get; set; }
         public string nombre2 { get; set; }

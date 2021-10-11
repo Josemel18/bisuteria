@@ -24,6 +24,7 @@
     ".NETCoreApp,Version=v3.1": {
       "Bisuteria.App.Presentacion/1.0.0": {
         "dependencies": {
+          "Bisuteria.App.Dominio": "1.0.0",
           "Microsoft.AspNetCore.Antiforgery": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Cookies": "3.1.0.0",
@@ -312,6 +313,14 @@
         },
         "compile": {
           "Bisuteria.App.Presentacion.dll": {}
+        }
+      },
+      "Bisuteria.App.Dominio/1.0.0": {
+        "runtime": {
+          "Bisuteria.App.Dominio.dll": {}
+        },
+        "compile": {
+          "Bisuteria.App.Dominio.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/3.1.0.0": {
@@ -2010,6 +2019,11 @@
   },
   "libraries": {
     "Bisuteria.App.Presentacion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Bisuteria.App.Dominio/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

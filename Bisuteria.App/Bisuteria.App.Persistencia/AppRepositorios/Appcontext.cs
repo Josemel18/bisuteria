@@ -22,7 +22,7 @@ namespace Bisuteria.App.Persistencia
             if (!optionsBuilder.IsConfigured)
             {
                 optionsBuilder
-               .UseSqlServer("Data Source = (localdb)\\MSSQLLocalDB; Initial Catalog =ProyectoG58");
+               .UseSqlServer("Data Source = DESKTOP-N45SPK3; Initial Catalog =bisuteria ; User =sa; Password=adminsql");
             }
         }
     }

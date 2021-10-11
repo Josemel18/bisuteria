@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "Bisuteria.App.Dominio/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Bisuteria.App.Dominio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Bisuteria.App.Dominio.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Bisuteria.App.Dominio/1.0.0": {
+      "type": "project",
+      "path": "../Bisuteria.App.Dominio/Bisuteria.App.Dominio.csproj",
+      "msbuildProject": "../Bisuteria.App.Dominio/Bisuteria.App.Dominio.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "Bisuteria.App.Dominio >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\luisy\\.nuget\\packages\\": {}
@@ -30,7 +49,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\luisy\\Desktop\\SEMESTRE X\\MINTIC\\CICLO 3\\github\\bisuteria\\Bisuteria.App\\Bisuteria.App.Dominio\\Bisuteria.App.Dominio.csproj": {
+              "projectPath": "C:\\Users\\luisy\\Desktop\\SEMESTRE X\\MINTIC\\CICLO 3\\github\\bisuteria\\Bisuteria.App\\Bisuteria.App.Dominio\\Bisuteria.App.Dominio.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
