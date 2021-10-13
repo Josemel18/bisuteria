@@ -36,3 +36,9 @@ C:\Users\luisy\Desktop\SEMESTRE X\MINTIC\CICLO 3\github\bisuteria\Bisuteria.App\
 C:\Users\luisy\Desktop\SEMESTRE X\MINTIC\CICLO 3\github\bisuteria\Bisuteria.App\Bisuteria.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Clientes\Lista.cshtml.g.cs
 C:\Users\luisy\Desktop\SEMESTRE X\MINTIC\CICLO 3\github\bisuteria\Bisuteria.App\Bisuteria.App.Presentacion\bin\Debug\netcoreapp3.1\Bisuteria.App.Dominio.dll
 C:\Users\luisy\Desktop\SEMESTRE X\MINTIC\CICLO 3\github\bisuteria\Bisuteria.App\Bisuteria.App.Presentacion\bin\Debug\netcoreapp3.1\Bisuteria.App.Dominio.pdb
+C:\Users\luisy\Desktop\SEMESTRE X\MINTIC\CICLO 3\github\bisuteria\Bisuteria.App\Bisuteria.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Clientes\Clientes.cshtml.g.cs
+C:\Users\luisy\Desktop\SEMESTRE X\MINTIC\CICLO 3\github\bisuteria\Bisuteria.App\Bisuteria.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Productos\Productos.cshtml.g.cs
+C:\Users\luisy\Desktop\SEMESTRE X\MINTIC\CICLO 3\github\bisuteria\Bisuteria.App\Bisuteria.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Venta\Venta.cshtml.g.cs
+C:\Users\luisy\Desktop\SEMESTRE X\MINTIC\CICLO 3\github\bisuteria\Bisuteria.App\Bisuteria.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Bills\Bills.cshtml.g.cs
+C:\Users\luisy\Desktop\SEMESTRE X\MINTIC\CICLO 3\github\bisuteria\Bisuteria.App\Bisuteria.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Inventario\Inventario.cshtml.g.cs
+C:\Users\luisy\Desktop\SEMESTRE X\MINTIC\CICLO 3\github\bisuteria\Bisuteria.App\Bisuteria.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Venta\NuevaVenta.cshtml.g.cs
