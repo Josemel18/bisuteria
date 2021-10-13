@@ -21,9 +21,12 @@ namespace Bisuteria.App.Persistencia
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder
-               .UseSqlServer("Data Source = DESKTOP-N45SPK3; Initial Catalog =bisuteria ; User =sa; Password=adminsql");
+                //Utilicé el doble barra inclinada
+                optionsBuilder.UseSqlServer("Persist Security Info=False;User ID=sa;Initial Catalog=bisuteria;Data Source=DESKTOP-N45SPK3\\SQLEXPRESS; Password = adminsql");
+               //.UseSqlServer("Data Source = DESKTOP-N45SPK3\\SQLEXPRESS ; Initial Catalog = bisuteria ; User ID= sa; Password = adminsql");
             }
+
+
         }
     }
 }

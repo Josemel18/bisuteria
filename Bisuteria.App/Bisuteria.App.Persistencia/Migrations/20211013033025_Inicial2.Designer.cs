@@ -10,8 +10,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Bisuteria.App.Persistencia.Migrations
 {
     [DbContext(typeof(AppContext))]
-    [Migration("20211011185859_Inicial")]
-    partial class Inicial
+    [Migration("20211013033025_Inicial2")]
+    partial class Inicial2
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
